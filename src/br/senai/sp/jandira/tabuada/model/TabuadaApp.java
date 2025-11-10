@@ -1,4 +1,4 @@
-package br.senai.sp.jandira.tabuada;
+package br.senai.sp.jandira.tabuada.model;
 
 import java.util.Scanner;
 
